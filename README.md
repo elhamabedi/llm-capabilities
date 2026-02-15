@@ -1,13 +1,9 @@
-# Exploring LLM Capabilities: From Storytelling to Visual QA
-
-## Overview
-
+## Exploring LLM Capabilities: From Storytelling to Visual QA
 
 This repository contains the implementation of a project for the Natural Language Processing course (Spring 2025). The project systematically evaluates the capabilities of Large Language Models (LLMs) across five diverse tasks—from creative text generation to multimodal reasoning—using prompt engineering techniques including Few-Shot Prompting and Chain-of-Thought (CoT) Reasoning.
 
 
-Models Used
----
+## Models Used
 
 Two quantized models were deployed via Ollama to balance performance and accessibility on consumer hardware:
 
@@ -16,40 +12,38 @@ phi3:3.8b (Text-only|3.8B)
 qwen2.5vl:3b (Vision-Language Model(VLM)|3.8B)
 ```
 
-Implemented Tasks
----
+## Implemented Tasks
 
-#### 3.1 Automatic Story Generation (ASG)
+### 3.1 Automatic Story Generation (ASG)
 Generated 10 diverse short stories per model with varying genres (horror, sci-fi, romance, mystery, etc.)
 Applied Few-Shot Prompting with genre-specific examples to guide narrative style
 Controlled diversity via decoding hyperparameters (temperature ∈ [0.7, 1.2], top_p ∈ [0.9, 0.95])
 Topics included space exploration, desert islands, time machines, hidden treasures, and zombie apocalypses
-#### 3.2 Abstractive Text Summarization (ATS)
+### 3.2 Abstractive Text Summarization (ATS)
 Produced one-sentence summaries for all 20 generated stories
 Combined Chain-of-Thought reasoning with Few-Shot examples to improve paraphrasing quality
 Enforced constraints: summaries must be <50 words, avoid direct copying, and capture core narrative essence
 Evaluated using ROUGE-1 F1 against original stories
-#### 3.3 Natural Language Inference (NLI)
+### 3.3 Natural Language Inference (NLI)
 Classified 100 premise-hypothesis pairs into three relationship types:
 entailment: Hypothesis must be true if premise is true
 contradiction: Hypothesis must be false if premise is true
 neutral: Neither follows nor conflicts
 Used deterministic decoding (temperature=0.1) with strict output formatting
 Implemented robust parsing to extract single-word labels from model outputs
-#### 3.4 Image Captioning (IC)
+### 3.4 Image Captioning (IC)
 Generated natural language descriptions for 100 COCO images
 Leveraged qwen2.5vl:3b's multimodal capabilities with base64-encoded images
 Evaluated against 5 human-written reference captions per image using CIDEr metric
 Ensured caption validity through length checks and content filtering
-#### 3.5 Visual Question Answering (VQA)
+### 3.5 Visual Question Answering (VQA)
 Solved mathematical reasoning problems from MATH-Vision dataset
 Each question presented as image + multiple-choice options (A–E)
 Designed specialized prompt template to force single-letter answers
 Implemented multi-strategy answer extraction (position-based, regex pattern matching)
 
 
-Project Structure
----
+## Project Structure
 
 ```
 LLm Capabilities/
@@ -72,8 +66,7 @@ LLm Capabilities/
 └── README.md                 # This file
 ```
 
-Setup & Requirements
----
+## Setup & Requirements
 
 #### Download required models
 ```
@@ -92,8 +85,7 @@ pycocoevalcap>=1.2
 llama-cpp-python>=0.2.0
 ```
 
-References
----
+## References
 
 1.Jurafsky, D., & Martin, J. H. (2025). Speech and Language Processing (3rd ed.).
 
