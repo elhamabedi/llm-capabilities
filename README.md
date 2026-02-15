@@ -1,6 +1,6 @@
-## Exploring LLM Capabilities: From Storytelling to Visual QA
+# Exploring LLM Capabilities: From Storytelling to Visual QA
 
-#### Overview
+## Overview
 
 
 This repository contains the implementation of a project for the Natural Language Processing course (Spring 2025). The project systematically evaluates the capabilities of Large Language Models (LLMs) across five diverse tasks—from creative text generation to multimodal reasoning—using prompt engineering techniques including Few-Shot Prompting and Chain-of-Thought (CoT) Reasoning.
