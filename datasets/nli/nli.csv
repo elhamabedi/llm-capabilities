@@ -1,0 +1,101 @@
+premise,hypothesis,label
+Blue semi truck and two gentleman standing in front of it.,Nobody is standing,contradicts
+Blue semi truck and two gentleman standing in front of it.,tall humans standing,neutral
+Blue semi truck and two gentleman standing in front of it.,Humans standing,entails
+The man is on a black and white bike.,The man is running to his house.,contradicts
+The man is on a black and white bike.,The man is going to be in a bicycle race.,neutral
+The man is on a black and white bike.,The man is on a bike.,entails
+A boy in blue is riding his bike in a skate park.,A boy rides his bike in the skate park.,entails
+A boy in blue is riding his bike in a skate park.,The boy is on a skateboard at the skate park.,contradicts
+A boy in blue is riding his bike in a skate park.,He is wearing a helmet.,neutral
+A cyclist riding on their front wheel on the asphalt.,man does bike tricks for crowd,neutral
+A cyclist riding on their front wheel on the asphalt.,man on bike,entails
+A cyclist riding on their front wheel on the asphalt.,dog races crocodile,contradicts
+A boy in a blue shirt and white helmet is riding a white bike.,A monkey is flying a jet plane.,contradicts
+A boy in a blue shirt and white helmet is riding a white bike.,A guy is popping a wheelie in a parking lot.,neutral
+A boy in a blue shirt and white helmet is riding a white bike.,A male is afixed atop a bicycle.,entails
+A woman is sitting on a wooden bench at a wooden table where there is an old sewing machine and various sewing materials.,The sewing machine is sitting in a junk pile on the ground waiting to be taken to the dump.,contradicts
+A woman is sitting on a wooden bench at a wooden table where there is an old sewing machine and various sewing materials.,The woman is sitting at her grandmother's old sewing machine in tears because her grandmother just died.,neutral
+A woman is sitting on a wooden bench at a wooden table where there is an old sewing machine and various sewing materials.,The woman appears to be a seamstress.,entails
+A boy on a BMX bike,The biker is a male youngster.,entails
+A boy on a BMX bike,The rollerblader is a boy.,contradicts
+A boy on a BMX bike,The BMX rider is performing in a competition.,neutral
+A man with sunglasses speaks into a microphone he is holding.,A man singing to a crowd.,neutral
+A man with sunglasses speaks into a microphone he is holding.,A lady,contradicts
+A man with sunglasses speaks into a microphone he is holding.,A man holding a microphone.,entails
+An elderly woman with a purple and white dress sews a linen with a manual sewing machine.,"The lady walked through a worm hole that sent her back to the 1800's, but in this 1800's there are aliens.",contradicts
+An elderly woman with a purple and white dress sews a linen with a manual sewing machine.,The woman is part of a fair where they celebrate old times.,neutral
+An elderly woman with a purple and white dress sews a linen with a manual sewing machine.,The lady is using an antique item.,entails
+Some men are learning martial art.,There are some men learning martial arts.,entails
+Some men are learning martial art.,There are some women learning martial arts.,contradicts
+Some men are learning martial art.,There is only one man learning martial arts.,neutral
+A city situated among the mountains.,Mountains surround a city.,entails
+A city situated among the mountains.,A city is surrounded by flat farm fields.,contradicts
+A city situated among the mountains.,Mountains surround a city in Colorado.,neutral
+Men in black martial arts outfits practice their tan art in the grass in front of a tan building with a red roof.,There are men in red clown outfits juggling.,contradicts
+Men in black martial arts outfits practice their tan art in the grass in front of a tan building with a red roof.,The men are relaxing after doing something stressful.,neutral
+Men in black martial arts outfits practice their tan art in the grass in front of a tan building with a red roof.,There are men in black martial arts outfits practicing their tan art.,entails
+Two men sparring on a field with one man grabbing the wrist of the other while several people watch on a green lawn with a yellow house and several cars in the background.,Two men are playing chess on a green lawn while people watch.,contradicts
+Two men sparring on a field with one man grabbing the wrist of the other while several people watch on a green lawn with a yellow house and several cars in the background.,Two men are fighting outside in front of a crowd.,entails
+Two men sparring on a field with one man grabbing the wrist of the other while several people watch on a green lawn with a yellow house and several cars in the background.,Two men are fighting outside for the heavyweight championship.,neutral
+Martial arts students practice outside building.,Martial arts students practice inside.,contradicts
+Martial arts students practice outside building.,There is a boxing match in an indoor ring.,contradicts
+Martial arts students practice outside building.,Some people are doing martial arts outside.,entails
+Martial arts students practice outside building.,A Tae Kwan Do class is meeting outside in sunny weather to practice their moves.,neutral
+Martial arts students practice outside building.,A group of musicians is having a jam session in a nightclub's back room.,contradicts
+Martial arts students practice outside building.,Martial arts students are reading poetry by the fire.,contradicts
+Martial arts students practice outside building.,The martial arts students are practicing.,entails
+Martial arts students practice outside building.,A group of people who are learning something repeat it.,entails
+Martial arts students practice outside building.,Martial arts students are training for an upcoming competition.,neutral
+Martial arts students practice outside building.,The martial arts students were all female.,neutral
+Martial arts students practice outside building.,A group of people are practicing martial arts with their teacher.,neutral
+Martial arts students practice outside building.,Martial artists practice outdoors.,entails
+Martial arts students practice outside building.,The students were practicing wrestling.,contradicts
+Martial arts students practice outside building.,Martial artists practice their performance routine outside.,neutral
+Martial arts students practice outside building.,Students are outside.,entails
+A group of shoppers line the street of a commercial district beside a mountain.,There are people along a street.,entails
+A group of shoppers line the street of a commercial district beside a mountain.,People are shopping at a mountain resort town.,neutral
+A group of shoppers line the street of a commercial district beside a mountain.,No one is on the street.,contradicts
+Jimi Hendrix is wearing a blue outfit while playing his guitar.,Jimi Hendrix is playing is guitar in front of a large crowd.,neutral
+Jimi Hendrix is wearing a blue outfit while playing his guitar.,A famous musician is playing his guitar,entails
+Jimi Hendrix is wearing a blue outfit while playing his guitar.,Jimi Hendrix is asleep on his tour bus.,contradicts
+"A young man with a red beanie cap, green shirt, and blue jeans, sits on his skateboard as he watches.",The man is 90 years old.,contradicts
+"A young man with a red beanie cap, green shirt, and blue jeans, sits on his skateboard as he watches.",The man is wearing a gold chain.,neutral
+"A young man with a red beanie cap, green shirt, and blue jeans, sits on his skateboard as he watches.",The man has his butt on the skateboard.,entails
+A man is cooking on a flat top range in his kitchen.,An old man cooks steak on a stove top.,neutral
+A man is cooking on a flat top range in his kitchen.,Man washes his hands.,contradicts
+A man is cooking on a flat top range in his kitchen.,Man cooks on a flat stove.,entails
+A black and white dog looks back while walking on the beach.,The dog is asleep at home.,contradicts
+A black and white dog looks back while walking on the beach.,The dog was looking for a stick on the beach.,neutral
+A black and white dog looks back while walking on the beach.,An animal is outdoors.,entails
+"A dog with black and white spots walks on the beach, looking behind itself.",The animal is looking for it's owner.,neutral
+"A dog with black and white spots walks on the beach, looking behind itself.",The animal is running from the dog catcher.,contradicts
+"A dog with black and white spots walks on the beach, looking behind itself.",The animal is alone.,neutral
+A black and white dog is walking on a beach.,There are no dogs on the beach,contradicts
+A black and white dog is walking on a beach.,Two dogs are outside.,entails
+A black and white dog is walking on a beach.,Two dogs are walking home,neutral
+"Black and white dog, walking on beach and looking back.","A black and white dog, walking on the beach looks back to find his master.",neutral
+"Black and white dog, walking on beach and looking back.",A dog looks behind himself while walking on the beach.,entails
+"Black and white dog, walking on beach and looking back.",A dog sits in the middle of the road.,contradicts
+A man browses a busy farmer's market.,There is a man at a garage sale hoping to talk someone down on the price of a neat gadget he found.,contradicts
+A man browses a busy farmer's market.,"The man is looking to get started on an all-local, organic, fruit and veggie diet.",neutral
+A man browses a busy farmer's market.,There is a man at a farmer's market.,entails
+A black and white dog walks on a beach.,The dog is walking with its owner.,neutral
+A black and white dog walks on a beach.,The dog is near the ocean.,entails
+A black and white dog walks on a beach.,The dog is at the city park.,contradicts
+A child in a blue shirt is riding a horse,A kid is on an animal.,entails
+A child in a blue shirt is riding a horse,The girl is at a petting zoo.,neutral
+A child in a blue shirt is riding a horse,The boy is skateboarding on the sidewalk.,contradicts
+"A young boy, dressed in cowboy attire, rides a galloping horse.",A young boy riding the horse he got for his birthday.,neutral
+"A young boy, dressed in cowboy attire, rides a galloping horse.",A boy riding a horse.,entails
+"A young boy, dressed in cowboy attire, rides a galloping horse.",A woman chasing a horse down the street.,contradicts
+"A boy in a blue shirt, hat and boots rides on a brown horse.",A boy is riding in an equestrian competition.,neutral
+"A boy in a blue shirt, hat and boots rides on a brown horse.",A girl is playing hopscotch.,contradicts
+"A boy in a blue shirt, hat and boots rides on a brown horse.",A boy is riding a horse.,entails
+"A shirtless, skinny older man, welding a pot with a handheld welding tool.",There is a clothed man welding,contradicts
+"A shirtless, skinny older man, welding a pot with a handheld welding tool.",There is a shirtless man welding a present,neutral
+"A shirtless, skinny older man, welding a pot with a handheld welding tool.",There is a shirtless man welding,entails
+A scared kid is riding a horse.,A frightened child is riding an animal.,entails
+A scared kid is riding a horse.,A frightened child is nervously riding an horse.,neutral
+A scared kid is riding a horse.,A child is asleep on the horse.,contradicts
+A man wearing a red hat and holding a fake pistol talking to a girl in a large hallway.,The man is holding a knife.,contradicts

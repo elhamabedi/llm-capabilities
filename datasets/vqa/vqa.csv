@@ -1,0 +1,183 @@
+image,question,options,answer,difficulty
+vqa-001.jpg,"Vania has a sheet of paper divided into nine equal squares. She wants to fold the sheet as shown in the picture, initially with horizontal folds and then with vertical folds, until she leaves the colored square on top of the layers. Vania wants to write the numbers from 1 to 9 , one in each square, so that these numbers are in ascending order, starting with the number 1 at the top, after the folds are made above. On the open sheet, indicated at the side, which numbers should she write in place of $a, b$ and $c$?","['$a=9, b=5, c=3$' '$a=4, b=6, c=8$' '$a=7, b=5, c=3$' '$a=3, b=5, c=7$'
+ '$a=6, b=4, c=7$']",C,1
+vqa-002.jpg,"Two plane mirrors $O P$ and $O Q$ are inclined at an acute angle (diagram is not to scale). A ray of light $X Y$ parallel to $O Q$ strikes mirror $O P$ at $Y$. The ray is reflected and hits mirror $O Q$, is reflected again and hits mirror $O P$ and is reflected for a third time and strikes mirror $O Q$ at right angles at $R$ as shown. If $O R=5 \mathrm{~cm}$, what is the distance $d$ of the ray $X Y$ from the mirror $O Q$?","['$4 \mathrm{~cm}$' '$4.5 \mathrm{~cm}$' '$5 \mathrm{~cm}$'
+ '$5.5 \mathrm{~cm}$' '$6 \mathrm{~cm}$']",C,5
+vqa-003.jpg,"The first row shows 11 cards, each with two letters. The second row shows rearangement of the cards. Which of the following could appear on the bottom line of the second row?",['ANJAMKILIOR' 'RLIIMKOJNAA' 'JANAMKILIRO' 'RAONJMILIKA' 'ANMAIKOLIRJ'],E,4
+vqa-004.jpg,"
+
+Pascal's triangle is an array of positive integers(See figure), in which the first row is $1$, the second row is two $1$'s, each row begins and ends with $1$, and the $k^\text{th}$ number in any row when it is not $1$, is the sum of the $k^\text{th}$ and $(k-1)^\text{th}$ numbers in the immediately preceding row. The quotient of the number of numbers in the first $n$ rows which are not $1$'s and the number of $1$'s is","['$\frac{n^2-n}{2n-1}$' '$\frac{n^2-n}{4n-2}$' '$\frac{n^2-2n}{2n-1}$'
+ '$\frac{n^2-3n+2}{4n-2}$' '$\text{None of these}$']",D,5
+vqa-005.jpg,Which of the following is made using more than one piece of string?,"['I, III, IV and V' 'I, III and V' 'III, IV and V' 'all'
+ 'None of these answers']",B,3
+vqa-006.jpg,"Susi folds a piece of paper in the middle. She stamps 2 holes.
+What does the piece of paper look like when she unfolds it again?",['A' 'B' 'C' 'D' 'E'],B,2
+vqa-007.jpg,Jan cannot draw very accurately but nevertheless he tried to produce a roadmap of his village. The relative position of the houses and the street crossings are all correct but three of the roads are actually straight and only Qurwik street is not. Who lives in Qurwik street?,['Amy' 'Ben' 'Carol' 'David' 'It cannot be determined from the drawing.'],C,1
+vqa-008.jpg,"Matias wrote 15 numbers on the wheel represented beside. Only one of them is visible, the 10 on top of the wheel. The sum of the numbers in any seven consecutive positions, such as the gray positions in the figure, does not vary. When seven numbers in consecutive positions are summed up, which of the following results is possible?",['49' '70' '75' '105' '150'],B,1
+vqa-009.jpg,"The Mayas used points and lines to write numbers. A point stands for 1, a line for 5. Which of the following Maya-numbers stands for 17?",['A' 'B' 'C' 'D' 'E'],D,2
+vqa-010.jpg,"The diagram shows a pentagon and indicates the length of each side. Five circles are drawn with centres A, B, C, D and E. On each side of the pentagon the two circles that are drawn around the ends of that side touch each other. Which point is the centre of the biggest circle?",['A' 'B' 'C' 'D' 'E'],A,4
+vqa-011.jpg,"A $3 \times 3$ field is made up of 9 unit squares. In two of these squares, circles are inscribed as shown in the diagram. How big is the shortest distance between these circles?",['$2 \sqrt{2}-1$' '$\sqrt{2+1}$' '$2 \sqrt{2}$' '2' '3'],A,4
+vqa-012.jpg,"In the rectangle $A B C D$ pictured, $M_{1}$ is the midpoint of $D C, M_{2}$ the midpoint of $A M_{1}, M_{3}$ the midpoint of $B M_{2}$ and $M_{4}$ the midpoint of $C M_{3}$. Determine the ratio of the area of the quadrilateral $M_{1} M_{2} M_{3} M_{4}$ to the area of the rectangle $A B C D$.","['$\frac{7}{16}$' '$\frac{3}{16}$' '$\frac{7}{32}$' '$\frac{9}{32}$'
+ '$\frac{1}{5}$']",C,5
+vqa-013.jpg,"The figure below shows a square and four equilateral triangles, with each triangle having a side lying on a side of the square, such that each triangle has side length 2 and the third vertices of the triangles meet at the center of the square. The region inside the square but outside the triangles is shaded. What is the area of the shaded region?
+","['$4$' '$12 - 4\sqrt{3}$' '$3\sqrt{3}$' '$4\sqrt{3}$'
+ '$16 - \sqrt{3}$']",B,4
+vqa-014.jpg,Two squares $9 \mathrm{~cm} \times 9 \mathrm{~cm}$ overlap so as to form a rectangle $9 \mathrm{~cm} \times 13 \mathrm{~cm}$ as shown. Find the area of the region in which the two squares overlap.,"['$36 \mathrm{~cm}^{2}$' '$45 \mathrm{~cm}^{2}$'
+ '$54 \mathrm{~cm}^{2}$' '$63 \mathrm{~cm}^{2}$'
+ '$72 \mathrm{~cm}^{2}$']",B,2
+vqa-015.jpg,An octahedron is inscribed into a die with side length 1. The vertices of the octahedron are the midpoints of the faces of the die. How big is the volume of the octahedron?,"['$\frac{1}{3}$' '$\frac{1}{4}$' '$\frac{1}{5}$' '$\frac{1}{6}$'
+ '$\frac{1}{8}$']",D,3
+vqa-016.jpg,"The robot starts walking over white cells of the table from the cell A2 in the direction of the arrow, as shown in the picture. It goes always forward. If it meets an obstacle (a black cell or the border of the table), it turns right. The robot stops in case, it cannot go forward after turning right (i.e., it stops in the cell where the obstacles appear in front of him and on the right). In which cell will it stop?",['B2' 'B1' 'A1' 'D1' 'It never stops'],D,2
+vqa-017.jpg,Kelly had a paper ribbon of $27 \mathrm{~cm}$ long. She divided it into four rectangles of different size and drew two segments both of which connected the centres of the two adjacent rectangles (see the picture). Find the sum of lengths of the two segments.,"['$12 \mathrm{~cm}$' '$13.5 \mathrm{~cm}$' '$14 \mathrm{~cm}$'
+ '$14.5 \mathrm{~cm}$' 'The number depends on the division']",B,1
+vqa-018.jpg,"Ellen wants to decorate the butterfly Which butterfly can she make?
+using these 6 stickers",['A' 'B' 'C' 'D' 'E'],A,1
+vqa-019.jpg,Meike paddles around five buoys with her boat (see diagram). Which of the buoys does she paddle around in a clockwise direction?,"['2, 3 and 4' '1, 2 and 3' '1, 3 and 5' '2, 4 and 5' '2, 3 and 5']",E,3
+vqa-020.jpg,"
+
+Given that all angles shown are marked, the perimeter of the polygon shown is","['$14$' '$20$' '$28$' '$48$'
+ '$\text{cannot be determined from the information given}$']",C,2
+vqa-021.jpg,"
+
+The bar graph shows the grades in a mathematics class for the last grading period.  If A, B, C, and D are satisfactory grades, what fraction of the grades shown in the graph are satisfactory?","['$\frac{1}{2}$' '$\frac{2}{3}$' '$\frac{3}{4}$' '$\frac{4}{5}$'
+ '$\frac{9}{10}$']",C,2
+vqa-022.jpg,Below you see five pieces of lawn. Which one has the smallest area of grass?,['A' 'B' 'C' 'D' 'E'],A,1
+vqa-023.jpg,Which of the tiles below is NOT part of the wall next door?,['A' 'B' 'C' 'D' 'E'],E,1
+vqa-024.jpg,"Oli coloured in the following 8 fields in the grid: A2, B1, B2, B3, B4, C3, D3 and D4. Which is his grid?",['(A)' '(B)' '(C)' '(D)' '(E)'],C,1
+vqa-025.jpg,"Which of the following polygons has the largest area?
+",['$\text{A}$' '$\text{B}$' '$\text{C}$' '$\text{D}$' '$\text{E}$'],E,4
+vqa-026.jpg,"Five cars are labelled with the numbers 1 to 5 . They drive in the direction of the arrow.
+First the last car overtakes the two cars in front of it.
+Then the now second to last car overtakes the two in front of it.
+In the end the car that is now in the middle overtakes the two in front of it.
+In which order do the cars now drive?","['$1,2,3,4,5$' '$2,1,3,5,4$' '$2,1,5,3,4$' '$3,1,4,2,5$' '$4,1,2,5,3$']",B,2
+vqa-027.jpg,"Three one-inch squares are palced with their bases on a line. The center square is lifted out and rotated $ 45^\circ$, as shown. Then it is centered and lowered into its original location until it touches both of the adjoining squares. How many inches is the point $ B$ from the line on which the bases of the original squares were placed?",['$1$' '$\sqrt{2}$' '$\frac{3}{2}$' '$\sqrt{2} + \frac{1}{2}$' '$2$'],D,4
+vqa-028.jpg,A dark disc with three holes is placed on top of a dial of a watch (see diagram). Then the disc is rotated around its centre. Which numbers can be seen at the same time?,"['4, 6 and 12' '1, 5 and 10' '2, 4 and 9' '3, 6 and 9' '5, 7 and 12']",A,1
+vqa-029.jpg,"In the Kangaroo constellation, all stars have a number greater than 3 and their sum is 20 . Which is the Kangaroo constellation?",['A' 'B' 'C' 'D' 'E'],B,2
+vqa-030.jpg,In addition to the weight of the basket a single balloon can lift $80 \mathrm{~kg}$. 2 balloons can lift $180 \mathrm{~kg}$ in addition to the weight of the basket. How heavy is the basket?,"['$60 \mathrm{~kg}$' '$50 \mathrm{~kg}$' '$40 \mathrm{~kg}$'
+ '$30 \mathrm{~kg}$' '$20 \mathrm{~kg}$']",E,2
+vqa-031.jpg,"The ""Borromaic Rings"" have an extraordinary property. Although no two are interlocked, they are strongly connected within each other. If one ring is cut through, the other two fall apart. Which of the following diagrams shows the picture of ""Borromaic Rings""?",['A' 'B' 'C' 'D' 'E'],B,2
+vqa-032.jpg,"In parallelogram $ABCD$ of the accompanying diagram, line $DP$ is drawn bisecting $BC$ at $N$ and meeting $AB$ (extended) at $P$. From vertex $C$, line $CQ$ is drawn bisecting side $AD$ at $M$ and meeting $AB$ (extended) at $Q$. Lines $DP$ and $CQ$ meet at $O$. If the area of parallelogram $ABCD$ is $k$, then the area of the triangle $QPO$ is equal to",['$k$' '$\frac{6k}{5}$' '$\frac{9k}{8}$' '$\frac{5k}{4}$' '$2k$'],C,5
+vqa-033.jpg,There used to be 5 parrots in my cage. Their average value was $€ 6000$. One day while I was cleaning out the cage the most beautiful parrot flew away. The average value of the remaining four parrots was $€ 5000$. What was the value of the parrot that escaped?,['$€ 1000$' '$€ 2000$' '$€ 5500$' '$€ 6000$' '$€ 10000$'],E,4
+vqa-034.jpg,"In the diagram on the right we want to colour the fields with the colours A, B, C and D so that adjacent fields are always in different colours. (Even fields that share only one corner, count as adjacent.) Some fields have already been coloured in. In which colour can the grey field be coloured in?","['either A or B' 'only C' 'only D' 'either C or D' 'A, B, C or D']",D,5
+vqa-035.jpg,"In the figure below, choose point $D$ on $\overline{BC}$ so that $\triangle ACD$ and $\triangle ABD$ have equal perimeters. What is the area of $\triangle ABD$?","['$\frac{3}{4}$' '$\frac{3}{2}$' '$2$' '$\frac{12}{5}$'
+ '$\frac{5}{2}$']",D,3
+vqa-036.jpg,"Sets A and B, shown in the venn diagram, have the same number of elements. Thier union has 2007 elements and their intersection has 1001 elements. Find the number of elements in A.
+",['$03$' '$1006$' '$504$' '$1507$' '$1510$'],C,4
+vqa-037.jpg,"Lisa needs exactly 3 pieces to complete her jigsaw.
+Which of the 4 pieces is left over?",['A' 'B' 'C' 'D' 'C or D'],A,1
+vqa-038.jpg,"The side lengths of each of the small squares in the diagram are 1. How long is the shortest path from ""Start"" to ""Ziel"", if you are only allowed to move along the sides and the diagonals of the squares?","['$2 \sqrt{5}$' '$\sqrt{10}+\sqrt{2}$' '$2+2 \sqrt{2}$'
+ '$4 \sqrt{2}$' '6']",C,3
+vqa-039.jpg,A square with perimeter $48 \mathrm{~cm}$ is cut into two equally big pieces with one cut. They are fitted together to make a rectangle as shown in the diagram. How big is the perimeter of that rectangle?,"['$24 \mathrm{~cm}$' '$30 \mathrm{~cm}$' '$48 \mathrm{~cm}$'
+ '$60 \mathrm{~cm}$' '$72 \mathrm{~cm}$']",D,1
+vqa-040.jpg,"Bob folds a piece of paper, then punches a hole into the paper and unfolds it again. The unfolded paper then looks like this:
+Along which dotted line has Bob folded the paper beforehand?",['A' 'B' 'C' 'D' 'E'],C,1
+vqa-041.jpg,The rectangles $S_{1}$ and $S_{2}$ shown in the picture have the same area. Determine the ratio $x: y$.,['$1: 1$' '$3: 2$' '$4: 3$' '$7: 4$' '$8: 5$'],E,4
+vqa-042.jpg,"A square piece of paper of area $64 \mathrm{~cm}^{2}$ is folded twice, as shown in the diagram. What is the sum of the areas of the two shaded rectangles?","['$10 \mathrm{~cm}^{2}$' '$14 \mathrm{~cm}^{2}$'
+ '$15 \mathrm{~cm}^{2}$' '$16 \mathrm{~cm}^{2}$'
+ '$24 \mathrm{~cm}^{2}$']",D,1
+vqa-043.jpg,"In the diagram below, a diameter of each of the two smaller circles is a radius of the larger circle. If the two smaller circles have a combined area of $1$ square unit, then what is the area of the shaded region, in square units?
+","['$\frac{1}{4}$' '$\frac{1}{3}$' '$\frac{1}{2}$' '$1$'
+ '$\frac{\pi}{2}$']",D,3
+vqa-044.jpg,A figure is made up of three squares. The side length of the smallest square is $6 \mathrm{~cm}$. How long is the side length of the biggest square?,"['$8 \mathrm{~cm}$' '$10 \mathrm{~cm}$' '$12 \mathrm{~cm}$'
+ '$14 \mathrm{~cm}$' '$16 \mathrm{~cm}$']",C,3
+vqa-045.jpg,"Emily celebrated her birthday on Thursday, and her sister Liepa 8 days earlier. Which weekday was that?",['Wednesday' 'Thursday' 'Friday' 'Tuesday' 'Sunday'],A,2
+vqa-046.jpg,"Three villages are connected by paths as shown. From Downend to Uphill, the detour via Middleton is $1 \mathrm{~km}$ longer than the direct path. From Downend to Middleton, the detour via Uphill is $5 \mathrm{~km}$ longer than the direct path. From Uphill to Middleton, the detour via Downend is $7 \mathrm{~km}$ longer than the direct path. What is the length of the shortest of the three direct paths between the villages?","['$1 \mathrm{~km}$' '$2 \mathrm{~km}$' '$3 \mathrm{~km}$'
+ '$4 \mathrm{~km}$' '$5 \mathrm{~km}$']",C,2
+vqa-047.jpg,"Two opposite sides of a rectangle are each divided into $n$ congruent segments, and the endpoints of one segment are joined to the center to form triangle $A$. The other sides are each divided into $m$ congruent segments, and the endpoints of one of these segments are joined to the center to form triangle $B$. [See figure for $n = 5, m = 7$.]; What is the ratio of the area of triangle $A$ to the area of triangle $B$?
+",['1' 'm/n' 'n/m' '2m/n' '2n/m'],B,5
+vqa-048.jpg,The picture on the right has been drawn on paper and cut out to make a house. Which of the houses does it make?,['A' 'B' 'C' 'D' 'E'],A,5
+vqa-049.jpg,"The diagram shows a circle with centre $O$ as well as a tangent that touches the circle in point $P$. The arc $A P$ has length 20, the arc $B P$ has length 16. What is the size of the angle $\angle A X P$?","['$30^{\circ}$' '$24^{\circ}$' '$18^{\circ}$' '$15^{\circ}$'
+ '$10^{\circ}$']",E,4
+vqa-050.jpg,The little caterpillar rolls up to go to sleep. What could it look like then?,['A' 'B' 'C' 'D' 'E'],A,1
+vqa-051.jpg,PQRS is a rectangle. $T$ is the midpoint of $R S. Q T$ is normal to the diagonal $P R$. What is the ratio of the lengths $P Q: Q R$?,['$2: 1$' '$\sqrt{3}: 1$' '$3: 2$' '$\sqrt{2}: 1$' '$5: 4$'],D,5
+vqa-052.jpg,"A rectangular parallelepiped was composed of 4 pieces, each consisting of 4 little cubes. Then one piece was removed (see picture) Which one?",['A' 'B' 'C' 'D' 'E'],C,3
+vqa-053.jpg,"The figure shown is the union of a circle and two semicircles of diameters of $ a$ and $ b$, all of whose centers are collinear.
+The ratio of the area of the shaded region to that of the unshaded region is","['$\sqrt{\frac{a}{b}}$' '$\frac{a}{b}$' '$\frac{a^2}{b^2}$'
+ '$\frac{a + b}{2b}$' '$\frac{a^2 + 2ab}{b^2 + 2ab}$']",B,5
+vqa-054.jpg,A rectangular garden is surrounded by a path of constant width. The perimeter of the garden is $24 \mathrm{~m}$ shorter than the distance along the outside edge of the path. What is the width of the path?,"['$1 \mathrm{~m}$' '$2 \mathrm{~m}$' '$3 \mathrm{~m}$'
+ '$4 \mathrm{~m}$' '$5 \mathrm{~m}$']",C,3
+vqa-055.jpg,"Anna cuts the picture of a mushroom in two halves.
+She then arranges the two pieces together to form a new picture. What could this new picture look like?",['A' 'B' 'C' 'D' 'E'],E,1
+vqa-056.jpg,Some art work can be seen on a square-shaped transparent piece of foil. The foil is folded over twice as shown in the diagram. What does the foil look like after it has been folded over twice?,['A' 'B' 'C' 'D' 'E'],A,1
+vqa-057.jpg,Kathi draws a square with side length $10 \mathrm{~cm}$. Then she joins the midpoints of each side to form a smaller square. What is the area of the smaller square?,"['$10 \mathrm{~cm}^{2}$' '$20 \mathrm{~cm}^{2}$'
+ '$25 \mathrm{~cm}^{2}$' '$40 \mathrm{~cm}^{2}$'
+ '$50 \mathrm{~cm}^{2}$']",E,2
+vqa-058.jpg,"A parallelogram contains two identical regular hexagons. The hexagons share a common side, and each has two sides touching the sides of the parallelogram. What fraction of the parallelogram's area is shaded?","['$\frac{2}{3}$' '$\frac{1}{2}$' '$\frac{1}{3}$' '$\frac{1}{4}$'
+ '$\frac{3}{5}$']",B,3
+vqa-059.jpg,"In an equilateral triangle with area 1, we draw the six perpendicular lines from the midpoints of each side to the other two sides as seen in the diagram. How big is the area of the grey hexagon that has been created this way?","['$\frac{1}{3}$' '$\frac{2}{5}$' '$\frac{4}{9}$' '$\frac{1}{2}$'
+ '$\frac{2}{3}$']",D,4
+vqa-060.jpg,"Using a table of a certain height, two identical blocks of wood are placed as shown in Figure 1.  Length $r$ is found to be $32$ inches.  After rearranging the blocks as in Figure 2, length $s$ is found to be $28$ inches.  How high is the table?
+","['$28\text{ inches}$' '$29\text{ inches}$' '$30\text{ inches}$'
+ '$31\text{ inches}$' '$32\text{ inches}$']",C,5
+vqa-061.jpg,"In $ \triangle ABC$, $ AB = BC$, and $ BD$ is an altitude. Point $ E$ is on the extension of $ \overline{AC}$ such that $ BE = 10$. The values of $ \tan CBE$, $ \tan DBE$, and $ \tan ABE$ form a geometric progression, and the values of $ \cot DBE$, $ \cot CBE$, $ \cot DBC$ form an arithmetic progression. What is the area of $ \triangle ABC$?",['$16$' '$\frac{50}{3}$' '$10\sqrt{3}$' '$8\sqrt{5}$' '$18$'],B,5
+vqa-062.jpg,"Three circles of radius $ 1$ are externally tangent to each other and internally tangent to a larger circle. What is the radius of the large circle?
+","['$\frac{2 + \sqrt{6}}{3}$' '$2$' '$\frac{2 + 3\sqrt{2}}{3}$'
+ '$\frac{3 + 2\sqrt{3}}{3}$' '$\frac{3 + \sqrt{3}}{2}$']",D,4
+vqa-063.jpg,"A triangular pyramid is built with 10 identical balls, like this. Each ball has one of the letters A, $B, C, D$ and $E$ on it. There are 2 balls marked with each letter. The picture shows 3 side views of the pyramid. What is the letter on the ball with the question mark?",['A' 'B' 'C' 'D' 'E'],A,5
+vqa-064.jpg,"The diagram shows four circles each of which touches the largest square and two adjacent circles. A second square has its vertices at the midpoints of the sides of the largest square and the central square has its vertices at the centres of the circles.
+What is the ratio of the total shaded area to the area of the outer square?",['$\pi: 12$' '$1: 4$' '$(\pi+2): 16$' '$1: 3$' '$\pi: 4$'],B,3
+vqa-065.jpg,A star consist of a square and four triangles. All sides of the triangles are equally long. The perimeter of the square is $36 \mathrm{~cm}$. What is the perimeter of the star?,"['$144 \mathrm{~cm}$' '$120 \mathrm{~cm}$' '$104 \mathrm{~cm}$'
+ '$90 \mathrm{~cm}$' '$72 \mathrm{~cm}$']",E,3
+vqa-066.jpg,In the picture opposite we see that $1+3+5+7=4 \times 4$. How big is $1+3+5+7+\ldots+17+19$?,"['$10 \times 10$' '$11 \times 11$' '$12 \times 12$' '$13 \times 13$'
+ '$14 \times 14$']",A,3
+vqa-067.jpg,"In $\triangle ABC$, $AB = 5, BC = 7, AC = 9$ and $D$ is on $\overline{AC}$ with $BD = 5$. Find the ratio of $AD: DC$.
+",['4:3' '7:5' '11:6' '13:5' '19:8'],E,5
+vqa-068.jpg,The rooms in Kanga's house are numbered. Eva enters the house through the main entrance. Eva has to walk through the rooms in such a way that each room that she enters has a number higher than the previous one. Through which door does Eva leave the house?,['A' 'B' 'C' 'D' 'E'],D,2
+vqa-069.jpg,$ ABCD$ is a rectangle (see the accompanying diagram) with $ P$ any point on $ \overline{AB}$. $ \overline{PS} \perp \overline{BD}$ and $ \overline{PR} \perp \overline{AC}$. $ \overline{AF} \perp \overline{BD}$ and $ \overline{PQ} \perp \overline{AF}$. Then $ PR + PS$ is equal to:,['PQ' 'AE' 'PT + AT' 'AF' 'EF'],D,5
+vqa-070.jpg,"Right isosceles triangles are constructed on the sides of a 3-4-5 right triangle, as shown.  A capital letter represents the area of each triangle.  Which one of the following is true?
+",['$X+Z=W+Y$' '$W+X=Z$' '$3X+4Y=5Z$' '$X+W=\frac{1}{2}(Y+Z)$' '$X+Y=Z$'],E,3
+vqa-071.jpg,"In a square with sides of length $6 \mathrm{~cm}$ the points $A$ and $B$ are on one of the axes of symmetry, as shown. The shaded area is equal to each of the two unshaded areas.
+What is the length of $A B$ ?","['$3.6 \mathrm{~cm}$' '$3.8 \mathrm{~cm}$' '$4.0 \mathrm{~cm}$'
+ '$4.2 \mathrm{~cm}$' '$4.4 \mathrm{~cm}$']",C,2
+vqa-072.jpg,Amelia glues these six stickers on the faces of a cube:. The figure shows this cube in two different positions. Which adhesive is on the opposite side of the duck?,['(A)' '(B)' '(C)' '(D)' '(E)'],E,5
+vqa-073.jpg,"
+
+In the adjoining figure, circle $\mathit{K}$ has diameter $\mathit{AB}$; cirlce $\mathit{L}$ is tangent to circle $\mathit{K}$ and to $\mathit{AB}$ at the center of circle $\mathit{K}$; and circle $\mathit{M}$ tangent to circle $\mathit{K}$, to circle $\mathit{L}$ and $\mathit{AB}$. The ratio of the area of circle $\mathit{K}$ to the area of circle $\mathit{M}$ is",['$12$' '$14$' '$16$' '$18$' '$\text{not an integer}$'],C,5
+vqa-074.jpg,"On a checkerboard composed of 64 unit squares, what is the probability that a randomly chosen unit square does  not   touch the outer edge of the board?","['$\frac{1}{16}$' '$\frac{7}{16}$' '$\frac{1}{2}$' '$\frac{9}{16}$'
+ '$\frac{49}{64}$']",D,5
+vqa-075.jpg,"Max wants to complete the jigsaw shown. He has different pieces.
+Which pieces does he have to use?",['A' 'B' 'C' 'D' 'E'],A,1
+vqa-076.jpg,Martin has three cards that are labelled on both sides with a number. Martin places the three cards on the table without paying attention to back or front. He adds the three numbers that he can then see. How many different sums can Martin get that way?,['3' '5' '6' '9' 'A different amount.'],E,3
+vqa-077.jpg,Which figure can be made from the 2 pieces shown on the right?,['A' 'B' 'C' 'D' 'E'],A,1
+vqa-078.jpg,The star shown in the picture is made by fitting together 12 congruent equilateral triangles. The perimeter of the star is $36 \mathrm{~cm}$. What is the perimeter of the grey hexagon?,"['$6 \mathrm{~cm}$' '$12 \mathrm{~cm}$' '$18 \mathrm{~cm}$'
+ '$24 \mathrm{~cm}$' '$30 \mathrm{~cm}$']",C,4
+vqa-079.jpg,"Jane, Kate and Lynn go for a walk. Jane walks at the very front, Kate in the middle and Lynn at the very back. Jane weighs $500 \mathrm{~kg}$ more than Kate and Kate weighs $1000 \mathrm{~kg}$ less than Lynn. Which of the following pictures shows Jane, Kate and Lynn in the right order?",['(A)' '(B)' '(C)' '(D)' '(E)'],A,3
+vqa-080.jpg,A digital clock shows the following time: What time is it when it uses the exactly same digits again for the first time after that?,['A' 'B' 'C' 'D' 'E'],C,3
+vqa-081.jpg,A cube (on the right) is colored in three colors so that each face has exactly one color and the opposite face has the same color. Which of the following developments is the development of this cube?,['A' 'B' 'C' 'D' 'E'],E,5
+vqa-082.jpg,"Eight semicircles line the inside of a square with side length 2 as shown. What is the radius of the circle tangent to all of these semicircles?
+","['$\frac{1+\sqrt{2}}4$' '$\frac{\sqrt{5}-1}2$'
+ '$\frac{\sqrt{3}+1}4$' '$\frac{2\sqrt{3}}5$' '$\frac{\sqrt{5}}3$']",B,4
+vqa-083.jpg,"If this path is to continue in the same pattern:
+
+then which sequence of arrows goes from point $425$ to point $427$?
+",['A' 'B' 'C' 'D' 'E'],A,4
+vqa-084.jpg,Georg starts his training at 5 o'clock in the afternoon. It takes him 5 minutes to get to the bus stop. The bus journey takes 15 minutes. Then he has to walk for 5 minutes to get to the pitch. The bus comes at 6 o'clock in the morning for the first time and then every 10 minutes. What is the latest possible time he has to leave the house in order to be at the pitch on time?,['A' 'B' 'C' 'D' 'E'],A,2
+vqa-085.jpg,"Tarzan wanted to draw a rhombus made up of two equilateral triangles. He drew the line segments inaccurately. When Jane checked the measurements of the four angles shown, she sees that they are not equally big (see diagram). Which of the five line segments in this diagram is the longest?",['AD' 'AC' 'AB' 'BC' 'BD'],A,4
+vqa-086.jpg,"A caterpillar crawled up a smooth slope from $A$ to $B$, and crept down the stairs from $B$ to $C$. What is the ratio of the distance the caterpillar travelled from $B$ to $C$ to the distance it travelled from $A$ to $B$ ?",['$1: 1$' '2:1' '3:1' '$\sqrt{2}: 1$' '$\sqrt{3}: 1$'],E,4
+vqa-087.jpg,"Figure 1 is called a ""stack map."" The numbers tell how many cubes are stacked in each position. Fig. 2 shows these cubes, and Fig. 3 shows the view of the stacked cubes as seen from the front.
+
+Which of the following is the front view for the stack map in Fig. 4?
+",['A' 'B' 'C' 'D' 'E'],B,4
+vqa-088.jpg,"In the adjoining plane figure, sides $AF$ and $CD$ are parallel, as are sides $AB$ and $EF$, and sides $BC$ and $ED$. Each side has length of 1.  Also, $\measuredangle FAB = \measuredangle BCD = 60^\circ$. The area of the figure is
+",['$\frac{\sqrt{3}}{2}$' '$1$' '$\frac{3}{2}$' '$\sqrt{3}$' '$2$'],D,5
+vqa-089.jpg,In which box are the most triangles?,['A' 'B' 'C' 'D' 'E'],B,1
+vqa-090.jpg,"A cube with side length $ 1$ is sliced by a plane that passes through two diagonally opposite vertices $ A$ and $ C$ and the midpoints $ B$ and $ D$ of two opposite edges not containing $ A$ and $ C$, ac shown. What is the area of quadrilateral $ ABCD$?","['$\frac{\sqrt{6}}{2}$' '$\frac{5}{4}$' '$\sqrt{2}$' '$\frac{3}{2}$'
+ '$\sqrt{3}$']",A,2
+vqa-091.jpg,There are rectangular cards divided into 4 equal cells with different shapes drawn in each cell. Cards can be placed side by side only if the same shapes appear in adjacent cells on their common side. 9 cards are used to form a rectangle as shown in the figure. Which of the following cards was definitely NOT used to form this rectangle?,['A' 'B' 'C' 'D' 'E'],E,2
+vqa-092.jpg,"Grandma's watch has an hour, minute and second hand. We don't know which hand does which job, but we know that the watch tells the correct time. At 12:55:30 hours the watch looked as pictured. How will the watch look at 8:11:00 hours?",['A' 'B' 'C' 'D' 'E'],E,2
+vqa-093.jpg,"In the figure, $\mathrm{ABCE}$ is a square. $\mathrm{CDE}$ and $\mathrm{BCF}$ are equilateral triangles. The length of $\mathrm{AB}$ is 1. How long is $\mathrm{FD}$?","['$\sqrt{2}$' '$\frac{\sqrt{3}}{2}$' '$\sqrt{3}$' '$\sqrt{5}-1$'
+ '$\sqrt{6}-1$']",A,4
+vqa-094.jpg,A square piece of paper is folded twice so that the result is a square again. In this square one of the corners is cut off. Then the paper is folded out. Which sample below cannot be obtained in this way?,['A' 'B' 'C' 'D' 'E'],E,1
+vqa-095.jpg,"The points $N, M$ and $L$ lie on the sides of an equilateral triangle $A B C$ so that $\mathrm{NM} \perp \mathrm{BC}, \mathrm{ML} \perp \mathrm{AB}$ and $\mathrm{LN} \perp \mathrm{AC}$ holds true. The area of the triangle $\mathrm{ABC}$ is $36 \mathrm{~cm}^{2}$. What is the area of the triangle LMN?","['$9 \mathrm{~cm}^{2}$' '$12 \mathrm{~cm}^{2}$' '$15 \mathrm{~cm}^{2}$'
+ '$16 \mathrm{~cm}^{2}$' '$18 \mathrm{~cm}^{2}$']",B,3
+vqa-096.jpg,"The pie chart beside refers to the number of inhabitants of the five zones of a city. The central zone has the same population as the north, west and east zones together and the south zone has half of the inhabitants of the west zone. What is the percentage difference between the inhabitants of the north and east zones?",['$6 \%$' '$11 \%$' '$12 \%$' '$13 \%$' '$18 \%$'],D,3
+vqa-097.jpg,"Mother halves the birthday cake. One half she then halves again. Of that she again halves one of the smaller pieces. Of these smaller pieces she once more halves one of them (see diagram). One of the two smallest pieces weighs $100 \mathrm{~g}$.
+How much does the entire cake weigh?","['$600 \mathrm{~g}$' '$800 \mathrm{~g}$' '$1200 \mathrm{~g}$'
+ '$1600 \mathrm{~g}$' '$2000 \mathrm{~g}$']",D,2
+vqa-098.jpg,"Each side of the large square in the figure is trisected (divided into three equal parts).  The corners of an inscribed square are at these trisection points, as shown.  The ratio of the area of the inscribed square to the area of the large square is
+","['$\frac{\sqrt{3}}{3}$' '$\frac{5}{9}$' '$\frac{2}{3}$'
+ '$\frac{\sqrt{5}}{3}$' '$\frac{7}{9}$']",B,3
+vqa-099.jpg,In the isosceles triangle $A B C$ (with base $A C$ ) the points $K$ and $L$ are added on the sides $A B$ and $B C$ respectively so that $A K=K L=\angle B$ and $K B=A C$. How big is the angle $\angle A B C$?,"['$30^{\circ}$' '$35^{\circ}$' '$36^{\circ}$' '$40^{\circ}$'
+ '$44^{\circ}$']",C,5
+vqa-100.jpg,"Zoli wants to make a bench for his garden from some tree trunks sawn in half, as shown in the picture. The diameters of the two bottom trunks are 20 centimetres, and the diameter of the top trunk is 40 centimetres. What is the height of the bench in centimetres?",['25' '$20 \sqrt{ } 2$' '28.5' '30' '$10 \sqrt{ } 10$'],B,4
