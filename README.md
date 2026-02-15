@@ -2,7 +2,8 @@
 
 #### Overview
 This repository contains the implementation of a project for the Natural Language Processing course (Spring 2025). The project systematically evaluates the capabilities of Large Language Models (LLMs) across five diverse tasks—from creative text generation to multimodal reasoning—using prompt engineering techniques including Few-Shot Prompting and Chain-of-Thought (CoT) Reasoning.
----
+
+<code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 #### Models Used
 Two quantized models were deployed via Ollama to balance performance and accessibility on consumer hardware:
@@ -12,7 +13,8 @@ phi3:3.8b (Text-only|3.8B)
 
 
 qwen2.5vl:3b (Vision-Language Model(VLM)|3.8B)
----
+
+<code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 #### Implemented Tasks
 ##### 3.1 Automatic Story Generation (ASG)
@@ -42,7 +44,8 @@ Solved mathematical reasoning problems from MATH-Vision dataset
 Each question presented as image + multiple-choice options (A–E)
 Designed specialized prompt template to force single-letter answers
 Implemented multi-strategy answer extraction (position-based, regex pattern matching)
----
+
+<code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 
 #### Project Structure
@@ -66,7 +69,7 @@ LLm Capabilities/
 ├── code.ipynb                # Complete implementation (all 5 tasks + evaluation)
 └── README.md                 # This file
 ```
----
+<code>─</code> (Box Drawing Light Horizontal - U+2500)
 #### Setup & Requirements
 ##### Download required models
 ```
@@ -84,7 +87,7 @@ nltk>=3.8.0
 pycocoevalcap>=1.2
 llama-cpp-python>=0.2.0
 ```
----
+<code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 #### References
 1.Jurafsky, D., & Martin, J. H. (2025). Speech and Language Processing (3rd ed.).
