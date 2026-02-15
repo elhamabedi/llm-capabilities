@@ -1,22 +1,21 @@
 ## Exploring LLM Capabilities: From Storytelling to Visual QA
 
 #### Overview
+---
 This repository contains the implementation of a project for the Natural Language Processing course (Spring 2025). The project systematically evaluates the capabilities of Large Language Models (LLMs) across five diverse tasks—from creative text generation to multimodal reasoning—using prompt engineering techniques including Few-Shot Prompting and Chain-of-Thought (CoT) Reasoning.
 
-<code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 #### Models Used
+---
 Two quantized models were deployed via Ollama to balance performance and accessibility on consumer hardware:
 
-
+```
 phi3:3.8b (Text-only|3.8B)
-
-
 qwen2.5vl:3b (Vision-Language Model(VLM)|3.8B)
-
-<code>─</code> (Box Drawing Light Horizontal - U+2500)
+```
 
 #### Implemented Tasks
+---
 ##### 3.1 Automatic Story Generation (ASG)
 Generated 10 diverse short stories per model with varying genres (horror, sci-fi, romance, mystery, etc.)
 Applied Few-Shot Prompting with genre-specific examples to guide narrative style
@@ -45,10 +44,9 @@ Each question presented as image + multiple-choice options (A–E)
 Designed specialized prompt template to force single-letter answers
 Implemented multi-strategy answer extraction (position-based, regex pattern matching)
 
-<code>─</code> (Box Drawing Light Horizontal - U+2500)
-
 
 #### Project Structure
+---
 ```
 LLm Capabilities/
 ├── datasets/                   # Truncated datasets (100 items each)
@@ -69,8 +67,9 @@ LLm Capabilities/
 ├── code.ipynb                # Complete implementation (all 5 tasks + evaluation)
 └── README.md                 # This file
 ```
-<code>─</code> (Box Drawing Light Horizontal - U+2500)
+
 #### Setup & Requirements
+---
 ##### Download required models
 ```
 ollama pull phi3:3.8b
@@ -90,6 +89,7 @@ llama-cpp-python>=0.2.0
 <code>─</code> (Box Drawing Light Horizontal - U+2500)
 
 #### References
+---
 1.Jurafsky, D., & Martin, J. H. (2025). Speech and Language Processing (3rd ed.).
 
 
